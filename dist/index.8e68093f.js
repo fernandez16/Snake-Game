@@ -461,11 +461,15 @@ function hmrAcceptRun(bundle, id) {
 },{}],"lwBVi":[function(require,module,exports) {
 var _snake = require("./snake");
 var _foodJs = require("./food.js");
+var _gridJs = require("./grid.js");
 let lastRenderTime = 0;
 let gameOver = false;
 const gameBoard = document.getElementById("game-board");
 function main(currentTime) {
-    if (gameOver) return alert("You lose");
+    if (gameOver) {
+        if (confirm('You lost. Press OK to restart.')) window.location = '/';
+        return;
+    }
     window.requestAnimationFrame(main);
     const secondsSinceLastRender = (currentTime - lastRenderTime) / 1000;
     if (secondsSinceLastRender < 1 / _snake.SNAKE_SPEED) return;
@@ -485,10 +489,10 @@ function draw() {
     _foodJs.draw(gameBoard);
 }
 function checkDeath() {
-    gameOver = outsideGrid(getSnakeHead()) || snakeIntersection();
+    gameOver = _gridJs.outsideGrid(_snake.getSnakeHead()) || _snake.snakeIntersection();
 }
 
-},{"./snake":"aL5wy","./food.js":"9mW9t"}],"aL5wy":[function(require,module,exports) {
+},{"./snake":"aL5wy","./food.js":"9mW9t","./grid.js":"l5Jal"}],"aL5wy":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "SNAKE_SPEED", ()=>SNAKE_SPEED

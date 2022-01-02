@@ -41,7 +41,7 @@
 71F:\dev\bootcamp\Proyectos\Game-Project\node_modules\reusify\.travis.yml131614320330000000 0
 65F:\dev\bootcamp\Proyectos\Game-Project\node_modules\debug\node.js131419593830000000 0
 81F:\dev\bootcamp\Proyectos\Game-Project\node_modules\posthtml-parser\ava.config.js121436361000000000 0
-43F:\dev\bootcamp\Proyectos\Game-Project\dist132856396436315280 1
+43F:\dev\bootcamp\Proyectos\Game-Project\dist132856399010230176 1
 97F:\dev\bootcamp\Proyectos\Game-Project\node_modules\stylehacks\dist\plugins\trailingSlashComma.js121436361000000000 0
 66F:\dev\bootcamp\Proyectos\Game-Project\node_modules\balanced-match132856173303650445 1
 51F:\dev\bootcamp\Proyectos\Game-Project\node_modules132856178812844195 1
@@ -96,7 +96,7 @@
 65F:\dev\bootcamp\Proyectos\Game-Project\node_modules\react-refresh132856173294674450 1
 68F:\dev\bootcamp\Proyectos\Game-Project\node_modules\lodash\fp\lte.js121436361000000000 0
 75F:\dev\bootcamp\Proyectos\Game-Project\node_modules\chrome-trace-event\dist132856173217800010 1
-58F:\dev\bootcamp\Proyectos\Game-Project\src\scripts\game.js132856392642321607 0
+58F:\dev\bootcamp\Proyectos\Game-Project\src\scripts\game.js132856399008774102 0
 69F:\dev\bootcamp\Proyectos\Game-Project\node_modules\pako\package.json132856173297357290 0
 58F:\dev\bootcamp\Proyectos\Game-Project\node_modules\des.js132856173298813393 1
 62F:\dev\bootcamp\Proyectos\Game-Project\node_modules\parse5\lib132856173206161148 1
@@ -6676,7 +6676,7 @@
 74F:\dev\bootcamp\Proyectos\Game-Project\node_modules\path-to-regexp\LICENSE131098734800000000 0
 92F:\dev\bootcamp\Proyectos\Game-Project\node_modules\highlight.js\lib\languages\objectivec.js121436361000000000 0
 76F:\dev\bootcamp\Proyectos\Game-Project\node_modules\path-to-regexp\Readme.md131667123060000000 0
-61F:\dev\bootcamp\Proyectos\Game-Project\dist\index.8e68093f.js132856396436285366 0
+61F:\dev\bootcamp\Proyectos\Game-Project\dist\index.8e68093f.js132856399010190285 0
 68F:\dev\bootcamp\Proyectos\Game-Project\node_modules\path-key\license130412725910000000 0
 78F:\dev\bootcamp\Proyectos\Game-Project\node_modules\path-is-inside\LICENSE.txt131180239530000000 0
 85F:\dev\bootcamp\Proyectos\Game-Project\node_modules\asynckit\lib\readable_parallel.js131101905110000000 0
@@ -9580,7 +9580,7 @@
 68F:\dev\bootcamp\Proyectos\Game-Project\node_modules\is-url\Readme.md131665623310000000 0
 70F:\dev\bootcamp\Proyectos\Game-Project\node_modules\core-js\es\reflect132856173263747165 1
 85F:\dev\bootcamp\Proyectos\Game-Project\node_modules\es-abstract\2021\ToPropertyKey.js121436361000000000 0
-65F:\dev\bootcamp\Proyectos\Game-Project\dist\index.8e68093f.js.map132856396436305324 0
+65F:\dev\bootcamp\Proyectos\Game-Project\dist\index.8e68093f.js.map132856399010220342 0
 63F:\dev\bootcamp\Proyectos\Game-Project\node_modules\is-url\test132856173207497578 1
 72F:\dev\bootcamp\Proyectos\Game-Project\node_modules\is-url\test\index.js131665623310000000 0
 80F:\dev\bootcamp\Proyectos\Game-Project\node_modules\is-unicode-supported\license121436361000000000 0
